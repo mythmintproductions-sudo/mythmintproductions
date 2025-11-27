@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MythMint Productions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="logo">MYTHMINT PRODUCTIONS</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Movies</a>
+      <a href="#">Series</a>
+      <a href="#">Membership</a>
+    </nav>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-text">
+      <h1>Welcome to Your OTT Universe</h1>
+      <p>Stream original movies & series from MythMint Productions</p>
+      <button class="btn">Explore Now</button>
+    </div>
+  </section>
+
+  <!-- MOVIE ROW -->
+  <section class="row">
+    <h2>Latest Movies</h2>
+    <div class="cards">
+
+      <div class="card">
+        <img src="https://i.imgur.com/3WfQFGO.jpeg" alt="Movie Poster">
+        <p class="title">Sample Movie 1</p>
+      </div>
+
+      <div class="card">
+        <img src="https://i.imgur.com/FGcOubq.jpeg" alt="Movie Poster">
+        <p class="title">Sample Movie 2</p>
+      </div>
+
+      <div class="card">
+        <img src="https://i.imgur.com/8ONdZ1z.jpeg" alt="Movie Poster">
+        <p class="title">Sample Movie 3</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    © 2025 MythMint Productions — All Rights Reserved.
+  </footer>
+
+</body>
+</html>
